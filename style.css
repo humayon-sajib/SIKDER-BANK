@@ -1,0 +1,56 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 15px;
+    background-image: linear-gradient(90deg, lightcyan, lightskyblue);
+}
+#header{
+    color: purple;
+}
+#header-one{
+    color: orangered;
+}
+img{
+    width: 100%;  
+    padding: 10px;    
+}
+.add-img{
+    background-color: lightgray;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.all-doc{
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+#transaction-area{
+    display: none;
+}
+.img-text{
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+.deposit{
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
+.withdraw{
+    background-color: lightsalmon;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
+.balance{
+    background-color: orange;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
